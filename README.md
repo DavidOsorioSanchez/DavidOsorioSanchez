@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hello 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Java and Front-End (and a beginner designer) developer from Colombia</h3>
 
 - 🔭 I’m currently working with **React** and **Java**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Spring Boot and React**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
