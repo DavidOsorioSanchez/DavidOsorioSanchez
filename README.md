@@ -25,11 +25,11 @@
 
 <p align="center"> 
   
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="35" height="35"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" alt="Springboot" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" alt="Springboot" width="35" height="35"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="35" height="35"/> 
