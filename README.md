@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **daalosx@gmail.com**
+
+- 📞 You can call me to: **+57 3027738340**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
