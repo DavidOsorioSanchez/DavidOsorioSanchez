@@ -3,7 +3,7 @@
 ### :DavidOsorioSanchez: I am a student from Colombia
 
 ### This is my GitHub repository, hope you like it 😄
-### My number phone is: +57 3027738340📞 | My email for contact is: daalosx@gmail.com✉️
+###      My number phone is: +57 3027738340📞       |      My email for contact is: daalosx@gmail.com✉️
       
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
