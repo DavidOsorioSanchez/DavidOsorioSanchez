@@ -67,6 +67,4 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
+Last Edited on: 09/05/2024
