@@ -1,9 +1,8 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :DavidOsorioSanchez: I am a student from Colombia
+<h1 align="center">DavidOsorioSanchez: I am a student from Colombia</h1>
 
 ### This is my GitHub repository, hope you like it 😄
-### __________________________________________________________________________________________
 ### |  My number phone is: +57 3027738340📞       |      My email for contact is: daalosx@gmail.com✉️ |
       
 
