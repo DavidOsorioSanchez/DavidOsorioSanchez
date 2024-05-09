@@ -28,16 +28,16 @@
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="35" height="35"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" alt="Springboot" width="35" height="35"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/react/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="35" height="35"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="35" height="35"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="35" height="35"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
