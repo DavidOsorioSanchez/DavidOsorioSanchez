@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.sv](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)g" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="html5" width="40" height="40"/> 
