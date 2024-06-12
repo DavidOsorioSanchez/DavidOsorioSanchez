@@ -1,6 +1,21 @@
 <h1 align="center">Hello 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Java and Front-End (and a beginner designer) developer from Colombia</h3>
 
+<p align="center">
+	<a href="https://github.com/DavidOsorioSanchez">
+		<img src="https://komarev.com/ghpvc/?username=DavidOsorioSanchez&label=Profile%20views&color=0e75b6&style=flat" alt="DavidOsorioSanchez" />
+	</a>
+	<a href="https://github.com/DavidOsorioSanchez">
+		<img src="https://img.shields.io/github/followers/DavidOsorioSanchez?label=Followers" alt="DavidOsorioSanchez" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/DavidOsorioSanchez">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
 - 🔭 I’m currently working with **React** and **Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot** and **React**
