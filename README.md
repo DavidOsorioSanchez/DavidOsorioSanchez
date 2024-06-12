@@ -80,6 +80,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&theme=react&layout=compact" />
 </p>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DavidOsorioSanchez&theme=react&no-frame=false&no-bg=true&margin-w=4)
 ------
 
 Last Edited on: 09/05/2024
