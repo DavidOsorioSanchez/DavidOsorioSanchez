@@ -82,7 +82,7 @@
 
 <h3 align="center">🏆GitHub Trophies</h3>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=DavidOsorioSanchez&row=1&no-bg=false&gap=5)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=DavidOsorioSanchez&row=1&no-bg=true&gap=5)
 ------
 
 Last Edited on: 09/05/2024
