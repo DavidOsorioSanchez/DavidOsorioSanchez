@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** and **React**
 
-- 👯 I’m looking to collaborate on **front-end** and **back-end projects**
+- 👯 I’m looking to collaborate on **front-end**,  **back-end** and **Mobile projects**
 
 - 📫 How to reach me: **daalosx@gmail.com**
 
