@@ -81,11 +81,10 @@
 </p>
 
 <h3 align="center">🏆GitHub Trophies</h3>
-br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DavidOsorioSanchez&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DavidOsorioSanchez&theme=radical&margin-h=15&margin-w=10&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
