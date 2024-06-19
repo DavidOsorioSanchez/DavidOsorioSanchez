@@ -75,10 +75,8 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" width="300" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150"  src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&theme=react&layout=compact" />
-</p>
 
 <h3 align="center">🏆GitHub Trophies</h3>
 <p align="center">
