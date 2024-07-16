@@ -28,7 +28,8 @@
 
 - ⚡ What I like to do: **I like so much make exercise, lisen music and lern things ...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
+<br>
+<h3 align="center">🙋‍♂️ Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-alejandro-osorio-sanchez-662a6624b/)
