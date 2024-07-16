@@ -78,7 +78,7 @@
 <p align="center">
 	<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&theme=react&layout=compact" />
 	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
-	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOsorioSanchez&theme=algolia" alt="SubhadeepZilong" /></p>
 </p>
   
 <h3 align="center">🏆GitHub Trophies</h3>
