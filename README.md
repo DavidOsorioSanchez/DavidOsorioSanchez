@@ -83,7 +83,7 @@
 	<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&theme=react&layout=compact" />
 	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOsorioSanchez&theme=react" alt="David's Status" />
-  
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidOsorioSanchez&theme=react">
 <h3 align="center">🏆GitHub Trophies</h3>
 <p align="center">
 <div align=center>
@@ -93,11 +93,6 @@
 </div>
 </p>
 
-<br>
-<h3 align="center">🕰️Time To Use Each Lenguage</h3>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidOsorioSanchez&theme=react">
-</p>
 
  <hr>
 
