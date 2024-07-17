@@ -29,7 +29,7 @@
 - ⚡ What I like to do: **I like so much make exercise, lisen music and lern things ...and coding of course**
 
 <br>
-<h3 align="center">🙋‍♂️ Connect with me:</h3>
+<h3 align="center">🙋‍♂️ Connect With Me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-alejandro-osorio-sanchez-662a6624b/)
@@ -94,7 +94,7 @@
 </p>
 
 <br>
-<h3 align="center">🕰️Time to use each lenguage</h3>
+<h3 align="center">🕰️Time To Use Each Lenguage</h3>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidOsorioSanchez&theme=react">
