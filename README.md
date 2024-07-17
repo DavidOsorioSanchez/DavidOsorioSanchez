@@ -95,7 +95,6 @@
 
 <br>
 <h3 align="center">🕰️Time To Use Each Lenguage</h3>
-<br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidOsorioSanchez&theme=react">
 </p>
