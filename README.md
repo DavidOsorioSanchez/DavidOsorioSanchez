@@ -84,8 +84,6 @@
 	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
 	<br>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOsorioSanchez&theme=react" alt="David's Status" />
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidOsorioSanchez">
 <h3 align="center">🏆GitHub Trophies</h3>
 <p align="center">
 <div align=center>
