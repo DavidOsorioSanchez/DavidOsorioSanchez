@@ -86,8 +86,8 @@
 
 <h3 align="center">📈GitHub Status</h3>
 <p align="center">
-	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&langs_count=10&theme=dark&layout=compact">
-	<img height="150" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOsorioSanchez&langs_count=10&theme=react&layout=compact">
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=DavidOsorioSanchez&theme=react&show_icons=true&include_all_commits=true" />
 	<br>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOsorioSanchez&theme=react" alt="David's Status" />
 <h3 align="center">🏆GitHub Trophies</h3>
