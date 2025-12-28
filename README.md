@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Java and Front-End (and a beginner designer) developer from Colombia</h3>
+<h3 align="center">A passionate Java and Front-End (and a beginner designer) developer from United States</h3>
 
 <p align="center">
 	<a href="https://github.com/DavidOsorioSanchez">
